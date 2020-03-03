@@ -1,0 +1,3 @@
+rootProject.name='SciFiBooks'
+include ':app'
+include ':domain'
